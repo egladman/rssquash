@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+  <title>rssquash</title>
   <link type="text/html" rel="alternate" href="https://github.com/egladman/rssquash"/>
   <link type="application/atom+xml" rel="self" href="http://egladman.github.io/rssquash/feed.atom"/>
-  <title>rssquash</title>
   <updated>{{ getCurrentTime }}</updated>
 
-  {{ range .}}
+  {{ range . }}
   <entry>
-        <title>{{ .Title }}</title>
-        <description>{{ .Description }}</description>
-        <content>{{ .Content }}</content>
-        <link>{{ .Link }}</link>
-        <id>{{ .GUID }}</id>
+    <title>{{ .Title }}</title>
+    <description>{{ .Description }}</description>
+    <content>{{ .Content }}</content>
+    <link>{{ .Link }}</link>
+    <modified>{{ .Updated }}</modified>
+    <updated>{{ .Updated }}</updated>
+    <published>{{ .Published }}</published>
+    <issued>{{ .Published }}</issued>
+    <author>{{ .Author }}</author>    
+    <id>{{ .GUID }}</id>
+    <category>{{ .Categories }}</category>
+    <enclosure>{{ .Enclosures }}</enclosure>
   </entry>
   {{ end }}
 </feed>
