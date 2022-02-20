@@ -2,19 +2,22 @@
 
 set -e
 
-INPUT="${INPUT:-examples/feeds.list}"
+if [[ -z "$1" ]]; then
+    printf '%s\n' "Feed path not specified"
+    exit 1
+fi
 
-DESTDIR="${TMPDIR:-$(mktemp -d)}"
+DESTDIR="${DESTDIR:-build}"
 OUTPUTDIR="${DESTDIR}/out"
 STAGINGDIR="${DESTDIR}/repo"
-FEEDPATH="${OUTPUTDIR}/feed.atom"
 
-GITORIGIN="$(git config  --get remote.origin.url)"
+GITORIGIN="$(git config --get remote.origin.url)"
 GITBRANCH="gh-pages"
 
-mkdir -p "$OUTPUTDIR" "$STAGINGDIR"
+rm -rf "${DESTDIR:?}"/*
+mkdir -p "$OUTPUTDIR/${RSSQUASH_PREFIX}" "$STAGINGDIR"
 
-go run main.go --source "$INPUT" > "$FEEDPATH"
+go run main.go --source "$1" > "${OUTPUTDIR}/${RSSQUASH_PREFIX}feed.atom"
 
 cp -r "${OUTPUTDIR}"/* "$STAGINGDIR"
 
@@ -26,4 +29,4 @@ git remote add origin "${GITORIGIN}"
 git push origin master:refs/heads/"${GITBRANCH}" --force
 popd
 
-# TODO cleanup
+rm -rf "${DESTDIR:?}"/*

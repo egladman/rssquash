@@ -1,24 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>rssquash</title>
-  <link type="text/html" rel="alternate" href="https://github.com/egladman/rssquash"/>
-  <link type="application/atom+xml" rel="self" href="http://egladman.github.io/rssquash/feed.atom"/>
-  <updated>{{ getCurrentTime }}</updated>
-
-  {{ range . }}
+  <title>{{ GetFeedTitle }}</title>
+  <id>{{ GetFeedBaseUrl }}{{ GetFeedPrefixUrl }}</id>{{/* Identifies the feed using a universally unique and permanent URI */}}
+  <link type="application/atom+xml" rel="self" href="{{ GetFeedBaseUrl}}{{ GetFeedPrefixUrl }}{{ GetFeedBaseName }}"/>{{/* Link back to the feed itself */}}
+  <link type="text/html" rel="alternate" href="https://github.com/egladman/rssquash"/>{{/* Link back to the source code */}}
+  <updated>{{ GetCurrentTime }}</updated>
+  {{- range . }}
   <entry>
+    {{- if .Title }}
     <title>{{ .Title }}</title>
+    {{- end  }}
+    {{- if .Description }}
     <description>{{ .Description }}</description>
+    {{- end }}
+    {{- if .Content }}
     <content>{{ .Content }}</content>
+    {{- end }}
+    {{- if .Link }}
     <link>{{ .Link }}</link>
+    {{- end }}
+    {{- if .Updated }}
     <modified>{{ .Updated }}</modified>
     <updated>{{ .Updated }}</updated>
+    {{- end }}
+    {{- if .Published }}
     <published>{{ .Published }}</published>
     <issued>{{ .Published }}</issued>
-    <author>{{ .Author }}</author>    
+    {{- end }}
+    {{- range $val := .Authors }}
+    <author>{{ $val }}</author>
+    {{- end }}
+    {{- if .GUID }}
     <id>{{ .GUID }}</id>
+    {{- end }}
+    {{- if .Categories }}
     <category>{{ .Categories }}</category>
+    {{- end }}
+    {{- if .Enclosures }}
     <enclosure>{{ .Enclosures }}</enclosure>
+    {{- end }}
   </entry>
-  {{ end }}
+  {{- end }}
 </feed>
