@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>rssquash</title>
+  <id>https://egladman.github.io/rssquash/sample/</id>
+  <link type="application/atom+xml" rel="self" href="https://egladman.github.io/rssquash/sample/feed.atom"/>
+  <link type="text/html" rel="alternate" href="https://github.com/egladman/rssquash"/>
+  <updated>2022-02-20T15:41:36-05:00</updated>
+  <entry>
+    <title>Free Software Wireless-N Mini Router v3 from ThinkPenguin, Inc. now FSF-certified to Respect Your Freedom</title>
+    <description>BOSTON, Massachusetts, USA -- Friday, April 30th, 2021 -- The Free
+Software Foundation (FSF) today awarded Respects Your Freedom (RYF)
+certification to the Free Software Wireless-N Mini Router v3
+(TPE-R1300) from ThinkPenguin, Inc. The RYF certification mark means
+that these products meet the FSF's standards in regard to users'
+freedom, control over the product, and privacy.</description>
+    <link>http://www.fsf.org/news/free-software-wireless-n-mini-router-v3-from-thinkpenguin-inc-now-fsf-certified-to-respect-your-freedom</link>
+    <published>2021-04-30T15:45:15Z</published>
+    <issued>2021-04-30T15:45:15Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>FSF and GNU move official IRC channels to Libera.Chat network</title>
+    <link>http://www.fsf.org/news/fsf-and-gnu-move-official-irc-channels-to-libera-chat-network</link>
+    <published>2021-06-11T20:40:00Z</published>
+    <issued>2021-06-11T20:40:00Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>Update to the FSF and GNU's plan to move IRC channels to Libera.Chat</title>
+    <link>http://www.fsf.org/news/update-to-the-fsf-and-gnus-plan-to-move-irc-channels-to-libera.chat</link>
+    <published>2021-06-15T16:40:00Z</published>
+    <issued>2021-06-15T16:40:00Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>FSF takes next step in commitment to improving board governance</title>
+    <link>http://www.fsf.org/news/fsf-takes-next-step-in-commitment-to-improving-board-governance</link>
+    <published>2021-07-01T14:40:05Z</published>
+    <issued>2021-07-01T14:40:05Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>Apply to be the FSF's next executive director</title>
+    <description>The Free Software Foundation (FSF), a Massachusetts 501(c)(3) charity
+with a worldwide mission to protect computer user freedom, seeks a
+principled, compassionate, and capable leader to be its new executive
+director. This position can be remote or based in our Boston office.</description>
+    <link>http://www.fsf.org/news/apply-to-be-the-fsfs-next-executive-director</link>
+    <published>2021-07-02T14:00:00Z</published>
+    <issued>2021-07-02T14:00:00Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>FSF job opportunity: Operations assistant</title>
+    <description>The Free Software Foundation (FSF), a Massachusetts 501(c)(3) charity with a worldwide mission to protect and promote computer-user freedom, seeks a motivated and organized Boston-based individual to be our full-time operations assistant.</description>
+    <link>http://www.fsf.org/news/fsf-job-opportunity-operations-assistant-1</link>
+    <published>2021-07-28T20:35:00Z</published>
+    <issued>2021-07-28T20:35:00Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>A wake-up call for iPhone users -- it's time to go</title>
+    <link>http://www.fsf.org/news/a-wake-up-call-for-iphone-users-its-time-to-go</link>
+    <published>2021-09-02T20:45:00Z</published>
+    <issued>2021-09-02T20:45:00Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>FSF announces JShelter browser add-on to combat threats from nonfree JavaScript</title>
+    <description>BOSTON, Massachusetts, USA -- Thursday, September 30th, 2021 -- The
+Free Software Foundation (FSF) today announced the JShelter project,
+an anti-malware Web browser extension to mitigate potential threats
+from JavaScript, including fingerprinting, tracking, and data
+collection. The project is supported by NLnet Foundation's Next
+Generation Internet (NGI) Zero Privacy & Trust Enhancing Technologies
+fund. Collaborators include Libor Polčák and Bednář Martin (Brno
+University of Technology), Giorgio Maone (NoScript), and Ana Isabel
+Carvalho and Ricardo Lafuente (Manufactura Independente). The JShelter
+browser add-on is in development and the first release is available.</description>
+    <link>http://www.fsf.org/news/fsf-announces-jshelter-browser-add-on-to-combat-threats-from-nonfree-javascript</link>
+    <published>2021-09-30T22:50:00Z</published>
+    <issued>2021-09-30T22:50:00Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>FSF job opportunity: Outreach and communications coordinator</title>
+    <link>http://www.fsf.org/news/fsf-job-opportunity-outreach-and-communications-coordinator</link>
+    <published>2021-10-02T20:20:00Z</published>
+    <issued>2021-10-02T20:20:00Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>Life's better together when you avoid Windows 11</title>
+    <link>http://www.fsf.org/news/lifes-better-together-when-you-avoid-windows-11</link>
+    <published>2021-10-05T20:30:00Z</published>
+    <issued>2021-10-05T20:30:00Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>Activists around the world protest Disney+'s unethical streaming platform for International Day Against DRM</title>
+    <link>http://www.fsf.org/news/activists-around-the-world-protest-disney-s-unethical-streaming-platform-for-international-day-against-drm</link>
+    <published>2021-12-10T20:47:18Z</published>
+    <issued>2021-12-10T20:47:18Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>FSF Adopts New Governance Framework for Board Members</title>
+    <link>http://www.fsf.org/news/fsf-adopts-new-governance-framework-for-board-members</link>
+    <published>2021-12-16T21:09:47Z</published>
+    <issued>2021-12-16T21:09:47Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>FSF expands process for associate members to nominate new members of the board</title>
+    <link>http://www.fsf.org/news/fsf-expands-process-for-associate-members-to-nominate-new-members-of-the-board</link>
+    <published>2022-01-18T22:59:19Z</published>
+    <issued>2022-01-18T22:59:19Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>Waag founder Marleen Stikker to keynote LibrePlanet 2022</title>
+    <description>BOSTON, Massachusetts, USA -- Tuesday, January 25, 2022 -- The
+Free Software Foundation (FSF) today announced Marleen Stikker as
+its opening keynote speaker for LibrePlanet 2022. The annual
+technology and social justice conference will be held virtually
+on March 19 and 20, 2022, with the theme "Living Liberation."</description>
+    <link>http://www.fsf.org/news/waag-founder-marleen-stikker-to-keynote-libreplanet-2022</link>
+    <published>2022-01-25T21:35:00Z</published>
+    <issued>2022-01-25T21:35:00Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>Artist collective Hundred Rabbits to keynote LibrePlanet: "Living Liberation"</title>
+    <description>BOSTON, Massachusetts, USA -- Monday, January 31, 2022 -- The
+Free Software Foundation (FSF) today announced Hundred Rabbits
+will join LibrePlanet 2022 as keynote speakers. The annual
+technology and social justice conference will be held virtually
+on March 19 and 20, 2022, with the theme "Living Liberation."</description>
+    <link>http://www.fsf.org/news/artist-collective-hundred-rabbits-to-keynote-libreplanet-living-liberation</link>
+    <published>2022-02-01T00:10:00Z</published>
+    <issued>2022-02-01T00:10:00Z</issued>
+    <author>{ }</author>
+  </entry>
+  <entry>
+    <title>How to start using reusable workflows with GitHub Actions</title>
+    <description>Reusable workflows offer a simple and powerful way to avoid copying and pasting workflows across your repositories. </description>
+    <content><p>From automating repetitive tasks to building continuous integration and continuous deployment pipelines, you can do a lot with GitHub Actions.</p>
+<p>But until recently, you had to copy and paste YAML files from one repository to another if you wanted to use them in more than one place.</p>
+<p>Enter <a href="https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/">reusable workflows</a>, which officially launched in 2021 and offer a simple and powerful way to avoid copying and pasting workflows across your repositories.</p>
+<p>Below, I’ll go over some of the benefits of reusable workflows and how to use them. I’ll also talk through how reusable workflows are different from <a href="https://github.blog/changelog/2021-08-25-github-actions-reduce-duplication-with-action-composition/">composite actions</a> and some current limitations.</p>
+<aside class="float-sm-right col-sm-5 col-md-6 col-lg-5 f4-mktg pt-3 my-5 my-sm-2 ml-sm-4 ml-lg-6 post-aside--small"><h3>New to GitHub Actions?</h3><p>If you haven’t used Actions before, don’t start your learning journey with reusable workflows. It will drive you crazy. Try learning more about GitHub Actions first <a href="https://resources.github.com/devops/tools/automation/actions">in our guide</a> (and then maybe try doing <a href="https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/">even more things</a> with them).</p>
+</aside>
+<ul>
+<li>The benefits of using reusable workflows</li>
+<li>How to make any workflow reusable</li>
+<li>Limitations with reusable workflows</li>
+<li>Reusable workflows vs. composite actions</li>
+<li>A simple tip for getting started with reusable workflows</li>
+</ul>
+<h2>What are the benefits of using reusable workflows?</h2>
+<ul>
+<li><strong>Reusable workflows are … reusable.</strong> Reusable workflows let you DRY (don’t repeat yourself) your Actions configurations, so you don’t need to copy and paste your workflows from one repository to another.</li>
+</ul>
+<p>Case in point: if you have three different Node applications and you’re building them all the same way, you can use one reusable workflow instead of copying and pasting your workflows again and again.</p>
+<ul>
+<li><strong>Reusable workflows can enforce context consistency across environments.</strong> When <a href="https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/">combined with OpenID Connect</a>, reusable workflows allow you to require certain tests to be run before code can be deployed to production.</li>
+</ul>
+<p>Let’s say, for example, that you have a cloud-hosted database and your applications are going to run database migrations when they’re deployed. You can put a policy in front of that database requiring that a specific reusable workflow is used before any deployment.</p>
+<h2>How to make any GitHub Actions workflow reusable</h2>
+<h3>Step 1: Add a workflow_call trigger</h3>
+<p>A reusable workflow is just like any GitHub Actions workflow with one key difference: it includes a <code>workflow_call</code> trigger.</p>
+<p>That means all you need to do is add in the following syntax to any action’s YAML workflow file:</p>
+<pre><code>on:
+  workflow_call:
+</code></pre>
+<p>You can then reference this workflow in another workflow by adding in this syntax:</p>
+<pre><code>Uses:
+  USER_OR_ORG_NAME/REPO_NAME/.github/workflows/REUSABLE_WORKFLOW_FILE.yml@TAG_OR_BRANCH
+</code></pre>
+<p>You can also pass data such as job information or passwords to a reusable workflow by using inputs and secret triggers. Inputs are used to pass non-sensitive information while secrets are used to pass along sensitive information such as passwords and credentials. You can <a href="https://docs.github.com/en/actions/using-workflows/reusing-workflows#using-inputs-and-secrets-in-a-reusable-workflow">learn more about that in our docs</a>.</p>
+<h3>Step 2: Make your actions accessible across your organization</h3>
+<p>After you add a <code>workflow_call</code> trigger, you need to make sure that your repositories in your organization have access to it. To do this, go to your repository settings, select <strong>Actions</strong>, and enable access to repositories in your organization.</p>
+<figure id="attachment_63012" class="wp-caption alignnone my-4 mx-0"><img loading="lazy" class="width-fit size-full wp-image-63012 width-fit" src="https://github.blog/wp-content/uploads/2022/02/enabling-access-github-actions-org-level.png" alt="Enabling access for GitHub Actions at the organization level" srcset="https://github.blog/wp-content/uploads/2022/02/enabling-access-github-actions-org-level.png?w=658 658w, https://github.blog/wp-content/uploads/2022/02/enabling-access-github-actions-org-level.png?w=300 300w" sizes="(max-width: 658px) 100vw, 658px"/><figcaption class="text-mono color-text-secondary f6-mktg">Enabling access for GitHub Actions at the organization level</figcaption></figure>
+<aside class="f4-mktg mt-4 mb-2 p-6 post-aside--large"><h3>A real-world example with reusable workflows</h3><p>
+While building a new repository to develop <a href="https://hot.opensauced.pizza/">hot.opensauced.pizza</a>, I needed to centralize my GitHub Actions compliance workflows (and avoid copying and pasting because who wants to do that when they can avoid it?).</p>
+<p>To do this, I added a <code>workflow_call</code> trigger to my original YAML workflow file in my open-sauced repository. You can see that <a href="https://github.com/open-sauced/open-sauced/blob/main/.github/workflows/compliance.yml">here in my YAML file</a>—or in the code snippet below.</p>
+<pre><code>
+name: Compliance
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - edited
+      - synchronize
+      - reopened
+  workflow_call:
+</code></pre>
+<p>Next, I built a new YAML workflow in my hot.opensauced.pizza repository and had it call back to my reusable compliance workflow. It looked like this (and you can <a href="https://github.com/open-sauced/hot/blob/main/.github/workflows/compliance.yml">check out the YAML file here</a>):</p>
+<pre><code>
+name: &#34;Compliance&#34;
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - edited
+      - synchronize
+
+permissions:
+  pull-requests: write
+
+jobs:
+  compliance:
+    uses: open-sauced/open-sauced/.github/workflows/compliance.yml@main
+</code></pre>
+<p><strong>Why this matters:</strong> Reusable workflows helped provide consistency across my projects and made my life easier. By copying and pasting a few key YAML files from one project to another, I was immediately good to go on day one.</p>
+</aside>
+<h2>Some limitations with reusable workflows</h2>
+<p>There are <a href="https://docs.github.com/en/actions/using-workflows/reusing-workflows#limitations">some limitations with reusable workflows</a>. I want to call out a few to keep in mind:</p>
+<ul>
+<li><strong>You can’t reference a reusable workflow that’s in a private repository</strong>. If you have a reusable workflow in a private repository, only other workflows in that private repository can use it.<p></p>
+</li>
+<li>
+<p><strong>Reusable workflows can’t be stacked on top of one another</strong>. You can only have a reusable workflow call another reusable workflow, but you can’t have it reference more than one.</p>
+</li>
+</ul>
+<h2>Reusable workflows vs. composite actions</h2>
+<p>When we launched reusable workflows, one of the first questions we got was around how they’re different from composite actions.</p>
+<p>For the uninitiated, <a href="https://github.blog/changelog/2021-08-25-github-actions-reduce-duplication-with-action-composition/">composite actions</a> enable you to combine multiple actions into a single action that you can then insert into any workflow. This means you can refactor long YAML workflow files into much smaller files—and you can also save yourself a fair amount of copying and pasting. Plus, if something like your credentials change, you won’t have to update an entire YAML file.</p>
+<p>In practice, there are kinds of problems you can solve with either reusable workflows or a composite workflow. Both approaches have individual strengths and weaknesses. 80% of the time you can probably use either one. But 20% of the time, you’ll need to use one or the other.</p>
+<p>For example, if your job needs to run on a specific runner or machine, you need to use reusable workflows. Composite actions don’t specify this type of thing. Composite actions are intended to be more isolated and generic.</p>
+<h3>Key differences between reusable workflows and composite actions</h3>
+<table>
+<tbody>
+<tr>
+<td><strong>Reusable workflows</strong></td>
+<td><strong>Composite actions</strong></td>
+</tr>
+<tr>
+<td>Cannot call another reusable workflow</td>
+<td>Can be nested to have up to 10 composite actions in one workflow</td>
+</tr>
+<tr>
+<td>Can use secrets</td>
+<td>Cannot use secrets</td>
+</tr>
+<tr>
+<td>Can use if: conditionals</td>
+<td>Cannot use if: conditionals</td>
+</tr>
+<tr>
+<td>Can be stored as normal YAML files in your project</td>
+<td>Requires individual folders for each composite action</td>
+</tr>
+<tr>
+<td>Can use multiple jobs</td>
+<td>Cannot use multiple jobs</td>
+</tr>
+<tr>
+<td>Each step is logged in real-time</td>
+<td>Logged as one step even if it contains multiple steps</td>
+</tr>
+</tbody>
+</table>
+<p>With reusable workflows, you can have multiple jobs and that gives you a lot of more granular control—and power. They allow you to specify any number of things and customize them more to your liking.</p>
+<p>Reusable workflows also don’t require individual folders for each workflow like composite actions do. This can make using reusable workflows simpler since you can avoid nesting a bunch of different folders like you’d need to do with composite actions.</p>
+<h2>TL;DR</h2>
+<p>The more things you can do to follow the DRY principle, the better. Reusable workflows make it simple to spin up new repositories and projects and immediately start using automation and CI/CD workflows with GitHub Actions that you know will work. That saves you time, and it lets you focus more on what’s important: writing great code.</p>
+<h3>Additional resources</h3>
+<ul>
+<li><strong>[Guide] <a href="https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/">How to build a CI/CD pipeline with GitHub Actions</a></strong></li>
+<li><strong>[Blog] <a href="https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/">10 GitHub Actions resources to bookmark</a></strong></li>
+<li><strong>[Blog] <a href="https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/">7 advanced workflow automation features with GitHub Actions</a></strong></li>
+</ul>
+</content>
+    <link>https://github.blog/2022-02-10-using-reusable-workflows-github-actions/</link>
+    <modified>2022-02-14T16:43:43Z</modified>
+    <updated>2022-02-14T16:43:43Z</updated>
+    <published>2022-02-10T17:56:42Z</published>
+    <issued>2022-02-10T17:56:42Z</issued>
+    <author>{Brian Douglas }</author>
+    <id>https://github.blog/?p=62982</id>
+    <category>[Product GitHub Actions]</category>
+  </entry>
+  <entry>
+    <title>Getting started with project planning on GitHub</title>
+    <description>Stop context switching. Keep your team’s project planning next to your code.</description>
+    <content><p>GitHub has long been the home for developers all over the world, and GitHub Issues has been the place where developers turn to kick off an idea, start a conversation, and track progress. As projects grew and became more complex, development teams often turned to dedicated planning and tracking tools to help them make sense of all that’s in-flight. However, if all this work is happening in GitHub, it probably makes sense to stop context switching and keep your team’s project planning right next to your code in GitHub.</p>
+<p>The ability to efficiently plan and manage work on GitHub has been growing in capabilities and power in recent months. As your team takes on the new calendar year with a full roadmap of ideas to start building, we thought we’d give you some tips on how to get started. We’re going to take you through how to use the new projects experience to tackle one feature to start, and use that planning process and apply it to future pieces of work.</p>
+<h2>Creating a new project <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;"/></h2>
+<p>Once you’ve identified a specific feature to start utilizing the new projects experience, head over to your organization’s page, and you’ll see “Projects.” Once you click on it, you’ll see an option on the left-hand side for a “(beta)” experience. This option gives you both the table and board layouts and will allow you to switch between them with ease.</p>
+<p><img src="https://github.blog/wp-content/uploads/2022/02/create-new-project.gif" alt="GIF showing how to create a new project"/></p>
+<p>The beauty of the new projects experience is that it’s built with flexibility in mind. We don’t want to lock you into a specific planning methodology. We know that everyone works differently, and how you plan and manage work is unique to you.</p>
+<p>So, with a blank slate in front of you, the best place to start is by adding GitHub Issues that are a part of the project you’re going to track for the feature your team is building. You can do this by using “#” and adding the issues you need. From our own experience, we’d recommend starting off with a project with a shorter timeline for delivery, like a six-week project deliverable. This will help you set a quick and repeatable tempo for your teams moving forward.</p>
+<p><img src="https://github.blog/wp-content/uploads/2022/02/adding-issues.gif" alt="GIF showing how to add issues to project"/></p>
+<p><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;"/> All your tables and board will automatically update all the statuses of your issues and pull requests, updating new assignees, and more.</p>
+<h2>Get organized <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f5c3.png" alt="🗃" class="wp-smiley" style="height: 1em; max-height: 1em;"/></h2>
+<p>Now comes our favorite part—organizing! Both the table and board view give you a lot of freedom when it comes to how you want to organize and customize your projects. Your default view is going to be your high-level plan, a table, or board layout with everything in it. Once you’ve got all the relevant issues and pull requests inputted, we’ll start to adjust and add new custom fields. This metadata helps classify your work items in all the different ways that are helpful for your team.</p>
+<p>The initial layout will give you a few core fields that are typically important to track, such as title, assignees, status, etc. Also, if you’re looking to track a six-week deliverable as we do, it’s a good idea to start by adding an iteration field to track iterations weekly associated with your deliverable. Once you have those determined and properly linked to your issues, you can take a full look at what’s open, what’s being worked on, and even see what linked pull requests are associated with given pieces of work.</p>
+<p><img src="https://github.blog/wp-content/uploads/2022/02/customize-project.png" alt=""/></p>
+<p><a href="https://docs.github.com/en/issues/trying-out-the-new-projects-experience/customizing-your-project-views">Check out even more ways you can get customizing here</a>. Also, <a href="https://github.blog/changelog/2021-12-02-the-new-github-issues-12-02-update/">recently added</a>, is the ability to view any customized field in board view! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;"/></p>
+<h2>Make it yours <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f440.png" alt="👀" class="wp-smiley" style="height: 1em; max-height: 1em;"/></h2>
+<p>From here, once you have your initial table/board set up, you can go even further in what you’re looking at by adding different views. Filters are great, but views give you ways to save different tabs so that it’s easy to maneuver to the specific parts of your project you care most about (like if you want to save a view that shows what individual teams are working on). Check out how we do this with our <a href="https://github.com/orgs/github/projects/4247/views/7">public roadmap</a> where we list out different products so our customers can quickly see what’s upcoming for what they care about most.</p>
+<p>A good first step for when you’re building out your plans on GitHub is to use the iteration field to create a new view. For us, this is important, because you can quickly see all that’s happening right now. To create a new view by iteration, you can either use the “+ New view” next to your first layout, or use the command palette: “Command” + “K” (for Mac) or “Ctrl” + “K” (for Windows/Linux). Hit the dropdown arrow in the new view’s tab, and under “Configuration” select “group by: iteration” to create a powerful planning view for your team.</p>
+<p><img src="https://github.blog/wp-content/uploads/2022/02/create-new-view.png" alt="GIF showing how to create a new view"/></p>
+<p><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;"/> When your project is looking good, but you realize there’s a new work item that needs to be added, you can open a draft issue directly from your project table or board. See some of the latest functionalities with draft issues <a href="https://github.blog/changelog/2021-12-16-the-new-github-issues-12-16-update/">here</a>.</p>
+<h2>Rescope, reuse, recycle <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;"/></h2>
+<p>The reason we recommend using the projects experience on GitHub to plan for shorter time frames is that you’ll be able to create shorter cycles with your team, increase your tempo, and release on a more consistent basis. We think these shorter cycles lead to more focus for teams (it has for us!) and are easily repeatable for other teams in your organization. Once your deliverable is complete, you close out a given project and can have that as an artifact your team and others within your organization can use moving forward.</p>
+<p>Once your team is feeling comfortable, you can start to bring together these smaller cycles to ladder up to bigger objectives. We think approaching planning and tracking too far removed from the work can be the wrong way to approach it. If we can ensure that developers have a solution that feels natural and comfortable for them and is in shorter, more manageable cycles, it will flow seamlessly into your organization’s goals.</p>
+<h2>Do you want to learn more?</h2>
+<p>We hope this helps you get a head start on moving your project planning over to GitHub. If you’re interested in learning more or giving us feedback, check out these links:</p>
+<ul>
+<li><strong>Our latest ships</strong> (we’re always improving!): <a href="https://github.blog/changelog/label/issues/">https://github.blog/changelog/label/issues/</a> </li>
+<li><strong>GitHub Issues Docs</strong>: <a href="https://docs.github.com/en/issues">https://docs.github.com/en/issues</a> (check out the <a href="https://docs.github.com/en/issues/trying-out-the-new-projects-experience/quickstart">quickstart guide!</a>)</li>
+<li><strong>Where to give us feedback</strong>: <a href="https://github.com/github/feedback/discussions/categories/issues-feedback">https://github.com/github/feedback/discussions/categories/issues-feedback</a></li>
+<li><strong>What’s coming on the roadmap</strong>: <a href="https://github.com/orgs/github/projects/4247/views/7">https://github.com/orgs/github/projects/4247/views/7</a> </li>
+</ul>
+</content>
+    <link>https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/</link>
+    <modified>2022-02-14T17:25:20Z</modified>
+    <updated>2022-02-14T17:25:20Z</updated>
+    <published>2022-02-11T17:30:43Z</published>
+    <issued>2022-02-11T17:30:43Z</issued>
+    <author>{Matt Butler }</author>
+    <id>https://github.blog/?p=63029</id>
+    <category>[Product GitHub Issues]</category>
+  </entry>
+  <entry>
+    <title>Include diagrams in your Markdown files with Mermaid</title>
+    <description>A picture tells a thousand words. Now you can quickly create and edit diagrams in markdown using words with Mermaid support in your Markdown files. </description>
+    <content><p>A picture tells a thousand words, but up until now the only way to include pictures and diagrams in your Markdown files on GitHub has been to embed an image. We added <a href="https://github.blog/changelog/2022-01-21-allow-to-upload-svg-files-to-markdown/">support for embedding SVGs recently</a>, but sometimes you want to keep your diagrams up to date with your docs and create something as easily as doing ASCII art, but a lot prettier.</p>
+<h2>Enter Mermaid <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f9dc-200d-2640-fe0f.png" alt="🧜‍♀️" class="wp-smiley" style="height: 1em; max-height: 1em;"/><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f9dc-200d-2642-fe0f.png" alt="🧜‍♂️" class="wp-smiley" style="height: 1em; max-height: 1em;"/></h2>
+<p><a href="https://github.com/mermaid-js/mermaid#readme">Mermaid</a> is a JavaScript based diagramming and charting tool that takes Markdown-inspired text definitions and creates diagrams dynamically in the browser. Maintained by <a href="https://github.com/knsv">Knut Sveidqvist</a>, it supports a bunch of different common diagram types for software projects, including flowcharts, UML, Git graphs, user journey diagrams, and even the dreaded Gantt chart.</p>
+<p>Working with Knut and also the wider community at <a href="https://commonmark.org/">CommonMark</a>, we’ve rolled out a change that will allow you to create graphs inline using <a href="https://mermaid-js.github.io/mermaid/#/n00b-syntaxReference?id=syntax-structure">Mermaid syntax</a>, for example:</p>
+<pre>```mermaid
+  graph TD;
+      A--&gt;B;
+      A--&gt;C;
+      B--&gt;D;
+      C--&gt;D;
+```
+</pre>
+<p>The raw code block above will appear as this diagram in the rendered Markdown:</p>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/rendered-diagram.png?w=300&amp;resize=300%2C251" alt="rendered diagram example" width="300" height="251" class="alignnone size-medium wp-image-63055 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/rendered-diagram.png?w=984 984w, https://github.blog/wp-content/uploads/2022/02/rendered-diagram.png?w=300&amp;resize=300%2C251 300w, https://github.blog/wp-content/uploads/2022/02/rendered-diagram.png?w=768 768w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1"/></p>
+<h2>How it works</h2>
+<p>When we encounter code blocks marked as <code>mermaid</code>, we generate an iframe that takes the raw Mermaid syntax and passes it to Mermaid.js, turning that code into a diagram in your local browser.</p>
+<p>We achieve this through a two-stage process—GitHub’s <a href="https://github.blog/2012-11-27-html-pipeline-chainable-content-filters/">HTML pipeline</a> and Viewscreen, our internal file rendering service.</p>
+<p>First, we add a filter to the HTML pipeline that looks for raw <code>pre</code> tags with the <code>mermaid</code> language designation and substitutes it with a template that works progressively, such that clients requesting content with embedded Mermaid in a non-JavaScript environment (such as an API request) will see the original Markdown code.</p>
+<p>Next, assuming the content is viewed in a JavaScript-enabled environment, we inject an iframe into the page, pointing the <code>src</code> attribute to the Viewscreen service. This has several advantages:</p>
+<ul>
+<li>It offloads the library to an external service, keeping the JavaScript payload we need to serve from Rails smaller.</li>
+<li>Rendering the charts asynchronously helps eliminate the overhead of potentially rendering several charts before sending the compiled ERB view to the client.</li>
+<li>User-supplied content is locked away in an iframe, where it has less potential to cause mischief on the GitHub page that the chart is loaded into.</li>
+</ul>
+<aside class="f4-mktg mt-4 mb-2 p-6 post-aside--large"><h3>Mermaid pipeline</h3><p>Here is a visual representation of the path your Mermaid-flavored Markdown takes to become a fully-rendered Mermaid chart. (Here’s <a href="https://gist.github.com/martinwoodward/8ad6296118c975510766d80310db71fd">the Mermaid code</a> for the diagram.)</p>
+<p><img src="https://github.blog/wp-content/uploads/2022/02/diagram-of-mermaid.png" alt="diagram of mermaid"/></p>
+<p>
+</p></aside>
+<p>The net result is fast, easily editable, and vector-based diagrams right in your documentation where you need them.</p>
+<p>Mermaid has been getting increasingly popular with developers and has a <a href="https://github.com/knsv/mermaid/graphs/contributors">rich community of contributors</a> led by the maintainer <a href="https://github.com/knsv">Knut Sveidqvist</a>. We are very grateful for Knut’s support in bringing this feature to everyone on GitHub. If you’d like to learn more about the Mermaid syntax, head over to the <a href="http://mermaid-js.github.io/mermaid/">Mermaid website</a> or check out Knut’s first official <a href="https://amzn.to/339uQRn">Mermaid book</a>.</p>
+</content>
+    <link>https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/</link>
+    <modified>2022-02-16T20:47:24Z</modified>
+    <updated>2022-02-16T20:47:24Z</updated>
+    <published>2022-02-14T16:57:42Z</published>
+    <issued>2022-02-14T16:57:42Z</issued>
+    <author>{Martin Woodward }</author>
+    <id>https://github.blog/?p=63053</id>
+    <category>[Engineering Open Source Markdown]</category>
+  </entry>
+  <entry>
+    <title>Announcing the 2022 MLH Fellowship Cohort, powered by GitHub</title>
+    <description>The MLH Fellowship, powered by GitHub, is a 12-week internship alternative for aspiring software engineers. Meet the 2022 cohort! </description>
+    <content><p>At GitHub Education, we know there are many pathways into the technology industry and our organization. We’re constantly looking for new ways to create entry points where software engineers can come to level up.</p>
+<p>The <a href="https://hackp.ac/QhwuJl">MLH Fellowship</a>, powered by GitHub, is a 12-week internship alternative for aspiring software engineers. Instead of interning at a single company, MLH Fellows on the <a href="https://hackp.ac/JMteSj">open source track</a> contribute to the type of open source projects that every company and community depends on.</p>
+<p>Through a competitive application process, this immersive program identifies Fellows from across the world and matches them with open source projects and maintainers over a period of 12 weeks.</p>
+<p>During the fellowship, Fellows will:</p>
+<ul>
+<li>Create production-quality Open Source contributions </li>
+<li>Build a network of amazing fellows, maintainers, and mentors to learn with/from</li>
+<li>Gain access to stipends, live technical training, and career support</li>
+</ul>
+<p>Now in its third year, there are 700+ global alumni! Let’s learn more about cohort MLH Fellows.</p>
+<h2>Meet the Fellows <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;"/></h2>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Alesana-Eteuati-thumbnail.png?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="" width="150" height="150" class="alignnone size-thumbnail wp-image-63117 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/Alesana-Eteuati-thumbnail.png?w=248 248w, https://github.blog/wp-content/uploads/2022/02/Alesana-Eteuati-thumbnail.png?w=150 150w, https://github.blog/wp-content/uploads/2022/02/Alesana-Eteuati-thumbnail.png?w=90 90w, https://github.blog/wp-content/uploads/2022/02/Alesana-Eteuati-thumbnail.png?w=116 116w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1"/><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Huilun-Ang.jpeg?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="" width="150" height="150" class="alignnone size-thumbnail wp-image-63105 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/Huilun-Ang.jpeg?w=150 150w, https://github.blog/wp-content/uploads/2022/02/Huilun-Ang.jpeg?w=1000 1000w, https://github.blog/wp-content/uploads/2022/02/Huilun-Ang.jpeg?w=90 90w, https://github.blog/wp-content/uploads/2022/02/Huilun-Ang.jpeg?w=116 116w, https://github.blog/wp-content/uploads/2022/02/Huilun-Ang.jpeg?zoom=2&amp;resize=150%2C150 300w, https://github.blog/wp-content/uploads/2022/02/Huilun-Ang.jpeg?zoom=3&amp;resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1"/><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Courtney-Wilson.jpeg?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="" width="150" height="150" class="alignnone size-thumbnail wp-image-63106 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/Courtney-Wilson.jpeg?w=150 150w, https://github.blog/wp-content/uploads/2022/02/Courtney-Wilson.jpeg?w=1000 1000w, https://github.blog/wp-content/uploads/2022/02/Courtney-Wilson.jpeg?w=90 90w, https://github.blog/wp-content/uploads/2022/02/Courtney-Wilson.jpeg?w=116 116w, https://github.blog/wp-content/uploads/2022/02/Courtney-Wilson.jpeg?zoom=2&amp;resize=150%2C150 300w, https://github.blog/wp-content/uploads/2022/02/Courtney-Wilson.jpeg?zoom=3&amp;resize=150%2C150 450w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1"/><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Ritesh-Patil.jpeg?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="" width="150" height="150" class="alignnone size-thumbnail wp-image-63107 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/Ritesh-Patil.jpeg?w=650 650w, https://github.blog/wp-content/uploads/2022/02/Ritesh-Patil.jpeg?w=150 150w, https://github.blog/wp-content/uploads/2022/02/Ritesh-Patil.jpeg?w=300 300w, https://github.blog/wp-content/uploads/2022/02/Ritesh-Patil.jpeg?w=90 90w, https://github.blog/wp-content/uploads/2022/02/Ritesh-Patil.jpeg?w=116 116w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1"/></p>
+<p>MLH Fellows bring a diverse set of personal experiences and cognitive abilities to their work, as well as to their colleagues and communities. They are passionate about their projects, have a strong interest in continuing to independently learn and grow, and are willing to put in the time to achieve their goals and better their community. The Fellows play a vital role in advancing the GitHub open source projects they’ve been matched to.</p>
+<h3><a href="https://github.com/Green-Ranger11">Alesana Eteuati</a></h3>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Alesana-Eteuati.png?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="" width="150" height="150" align="left" data-recalc-dims="1"/></p>
+<p style="margin-left:200px; margin-right:50px;">“As someone who has worked remotely I’m super excited to be working on a project (Standupman) that helps tackle one of the issues that comes with working remotely, which is syncing up everyone’s standups.”</p>
+<p class="f1-mktg text-medium text-gradient-purple-coral mt-6 mb-4">“I’m extremely looking forward to gaining more experience in open source by working on another open source project and learning from my maintainer and fellow contributors.”</p>
+<hr/>
+<h3><a href="https://github.com/huilunang">Huilun Ang</a></h3>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Huilun-Ang.jpeg?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="" width="150" height="150" align="left" data-recalc-dims="1"/></p>
+<p style="margin-left:200px; margin-right:50px;">“I am excited to get myself working on a new language to develop something impactful!”</p>
+<p> <br/>
+ <br/>
+</p><p class="f1-mktg text-medium text-gradient-purple-coral mt-6 mb-4">“I am looking forward to learning a new language and the best practices working on amazing open source projects!”</p><p></p>
+<hr/>
+<h3><a href="https://github.com/cmwilson21">Courtney Wilson</a></h3>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Courtney-Wilson.jpeg?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="" width="150" height="150" align="left" data-recalc-dims="1"/></p>
+<p style="margin-left:200px; margin-right:50px;">“I’m excited to be a part of this project and to be able to contribute in a way that will hopefully help out all Hubbers!”</p>
+<p> <br/>
+</p><p class="f1-mktg text-medium text-gradient-purple-coral mt-6 mb-4">“I’m really looking forward to working with this amazing team, getting some hands-on experience in the open source world, and collaborating with people all over.”</p><p></p>
+<hr/>
+<h3><a href="https://github.com/riteshsp2000">Ritesh Patil</a></h3>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Ritesh-Patil.jpeg?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="" width="150" height="150" align="left" data-recalc-dims="1"/></p>
+<p style="margin-left:200px; margin-right:50px;">“Ever since I started contributing to the open source world, I have been wanting to contribute to a huge open source project. GitHub Docs is one of the most frequently used documentation websites out there, and I am more than excited to be able to contribute to the project.”</p>
+<p class="f1-mktg text-medium text-gradient-purple-coral mt-6 mb-4">“Technical writing has always been a crucial talent for every developer to possess. It is not as simple as it may appear to be able to communicate your expertise and insight to others. In addition to addressing issues, I’m looking forward to enhancing and adding updates to GitHub Docs, and ideally, down the road, create a comprehensive article written by me.”</p>
+<hr/>
+<h2>Open source projects <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2764.png" alt="❤" class="wp-smiley" style="height: 1em; max-height: 1em;"/></h2>
+<p>This Fellowship program combines pre-existing knowledge with hands-on engineering projects—working on real teams and real products internally and externally. Check out the open source projects selected for this cohort.</p>
+<h3><a href="https://github.com/github/docs">GitHub Docs</a></h3>
+<p>GitHub is the home to 73M+ developers and each month, millions of those developers turn to GitHub Docs to learn more, dive deeper, or troubleshoot. GitHub Docs has been open source since October 2020. Since then, we’ve merged 1K+ pull requests in partnership with the community!</p>
+<h3><a href="https://github.com/standupman/standupman%5C">StandUpMan</a></h3>
+<p>StandUpMan makes communication easier for teams by allowing team members to asynchronously share updates with the team using their medium of choice. StandUpMan puts an end to unproductive meetings and communication chaos at work, thereby making it seamless for everyone to stay updated, improve transparency, work in sync, stay on track, and hit targets in less time.</p>
+<h2>What’s next <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4a5.png" alt="💥" class="wp-smiley" style="height: 1em; max-height: 1em;"/></h2>
+<p>The MLH Fellowship, powered by GitHub, runs year-round with batches starting every few months. Applications for our summer program are <a href="https://hackp.ac/QhwuJl">now open</a> and the program schedule accommodates all major time zones. Stay tuned to learn more about the progress of our current Fellows!</p>
+</content>
+    <link>https://github.blog/2022-02-15-announcing-2022-mlh-fellowship-cohort-powered-by-github/</link>
+    <modified>2022-02-15T17:24:24Z</modified>
+    <updated>2022-02-15T17:24:24Z</updated>
+    <published>2022-02-15T15:58:09Z</published>
+    <issued>2022-02-15T15:58:09Z</issued>
+    <author>{Ashley Bass }</author>
+    <id>https://github.blog/?p=63095</id>
+    <category>[Education MLH Fellowship]</category>
+  </entry>
+  <entry>
+    <title>The GitHub Stars in our eyes ⭐️</title>
+    <description>Over the past year, the GitHub Stars have made a tremendous impact in the community with their influence, inspiring and building communities and creating content to help everyone.</description>
+    <content><p>GitHub is home to the world’s largest community of developers who share their code, work together, and build amazing things. Yet out of those millions of developers on GitHub, there are a select few who go above and beyond in helping others in the developer space. And of that special group of people, some rise to the top as not only patient and giving open source contributors but people who help educate, inspire, and influence the online and in-person communities in which they live and work. Last year, we created the<a href="http://stars.github.com/"> GitHub Stars</a> program to allow you to nominate these people making a difference in your community, and we wanted to introduce you to some of them.</p>
+<h2>A year of influence</h2>
+<p>GitHub Stars positively impact everyone around them from the projects that they’re building and maintaining to their experiences and mentoring along the way.</p>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Gina-Ha%CC%88usge-thumbnail.png?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="photo of Gina Häußge" width="150" height="150" align="right" data-recalc-dims="1"/><a href="https://stars.github.com/profiles/foosel/"><strong>Gina Häußge</strong></a> has been a positive role model in the community as the creator and full-time open source maintainer on <a href="https://octoprint.org/">OctoPrint</a>, a snappy web interface for controlling consumer 3D printers. It’s 100% open source. Maintaining an open source project, like OctoPrint, comes with its challenges, from <a href="https://github.com/readme/stories/gina-haeussge#:~:text=Debunking%20stereotypes%20and%20making%20the%20invisible%2C%20visible">debunking stereotypes and making the invisible, visible</a> to being a full-time open source maintainer and a woman in tech. Gina shares her story on how she created OctoPrint and how she got started in open source through blogs, podcasts and events, which has been encouraging others along the way. Openly sharing the mental and physical strains in open source has also been comforting to many. And it’s not just sharing her journey with everyone but how Gina provides great technical tutorials, like this great example on <a href="https://www.youtube.com/watch?v=p9Gqmq1yLTc">RPi image customization—all powered with GitHub Actions</a>! For these reasons, we awarded Gina <em>GitHub Star of the Year 2021</em>.<br/>
+<br/>
+<img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Oluwasegun-Segun-Adebayo-.png?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="photo of Oluwasegun (Segun) Adebayo" width="150" height="150" align="right" data-recalc-dims="1"/>The beauty of open source is that it provides many people the opportunity to collaborate and work with others across the world. <a href="https://stars.github.com/profiles/segunadebayo/"><strong>Oluwasegun (Segun) Adebayo</strong></a> is a user interface engineer with a passion for design systems, accessibility, inclusion, and empathy. Segun is the creator of the popular open source project (and <a href="https://osawards.com/react/2020">award winning</a>). <a href="https://chakra-ui.com/">Chakra UI</a> is a library where you can create accessible React apps with speed! From <a href="https://github.com/readme/stories/segun-adebayo">sharing his journey</a> and the challenges he’s encountered along the way, he’s built an open source project where more than 2.2 million developers have used Chakra UI and in-turn has close to 500 individual contributors across the world.<br/>
+<br/>
+<img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Daniel-Stenberg.png?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="" width="150" height="150" align="right" data-recalc-dims="1"/><strong><a href="https://stars.github.com/profiles/bagder/">Daniel Stenberg</a></strong> is the founder and lead developer on <a href="https://curl.se/">curl</a>, one of the most widely used open source projects and components in the world! Daniel has been maintaining this project for more than 25 years, and after more than 200 releases later, he’s still going strong!</p>
+<p> In fact, the project just hit more than <a href="https://daniel.haxx.se/blog/2022/01/30/1000-commit-authors/">1,000 commit authors</a>. Daniel works together with a small core team maintaining the project but has well over 100 first-time committers and thousands of contributors. This is where the power of community shines through. A community doesn’t automatically build around it. You need to nurture it, like Daniel does. Listen to his interview <a href="https://github.com/readme/podcast/curl-25-years">on the ReadME podcast</a> to learn more.</p>
+<h2>A year of inspiration and building communities</h2>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Samson-Goddy_square.png?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="photo of Samson Goddy" width="150" height="150" class="alignright size-thumbnail wp-image-63232 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/Samson-Goddy_square.png?w=650 650w, https://github.blog/wp-content/uploads/2022/02/Samson-Goddy_square.png?w=150 150w, https://github.blog/wp-content/uploads/2022/02/Samson-Goddy_square.png?w=300 300w, https://github.blog/wp-content/uploads/2022/02/Samson-Goddy_square.png?w=90 90w, https://github.blog/wp-content/uploads/2022/02/Samson-Goddy_square.png?w=116 116w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1"/> <img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Ruth-Ikegah.png?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="photo of Ruth Ikegah" width="150" height="150" class="alignleft size-thumbnail wp-image-63164 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/Ruth-Ikegah.png?w=460 460w, https://github.blog/wp-content/uploads/2022/02/Ruth-Ikegah.png?w=150 150w, https://github.blog/wp-content/uploads/2022/02/Ruth-Ikegah.png?w=300 300w, https://github.blog/wp-content/uploads/2022/02/Ruth-Ikegah.png?w=90 90w, https://github.blog/wp-content/uploads/2022/02/Ruth-Ikegah.png?w=116 116w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1"/> <img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Shodipo-Ayomide.png?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="Photo of Shodipo Ayomide" width="150" height="150" class="alignleft size-thumbnail wp-image-63165 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/Shodipo-Ayomide.png?w=460 460w, https://github.blog/wp-content/uploads/2022/02/Shodipo-Ayomide.png?w=150 150w, https://github.blog/wp-content/uploads/2022/02/Shodipo-Ayomide.png?w=300 300w, https://github.blog/wp-content/uploads/2022/02/Shodipo-Ayomide.png?w=90 90w, https://github.blog/wp-content/uploads/2022/02/Shodipo-Ayomide.png?w=116 116w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1"/></p>
+<p>Despite the pandemic forcing the community to shift to  largely virtual engagements,  Stars have been out there inspiring everyone around them and in-turn building and nurturing communities. <strong><a href="https://stars.github.com/profiles/samswag/">Samson Goddy</a></strong> has been a driving force in the open source movement in Nigeria and co-founded the<a href="https://www.oscafrica.org/"> Open Source Community Africa</a> (OSCA). It’s a community that brings open source developers and experts across Africa together to collaborate on different projects, educate others, and promote open source culture from within. This ranges from creating and organizing meetups, to working with local communities. <strong><a href="https://stars.github.com/profiles/ruth-ikegah/">Ruth Ikegah</a></strong> (<em>Pioneer 2021 award</em>) and <strong><a href="https://stars.github.com/profiles/developerayo/">Shodipo Ayomide</a></strong> have been community pioneers and a strong driving force in growing a virtual GitHub Africa Meetup community by creating and hosting content, as well as continually engaging and growing the developer community.</p>
+<p>In the Stars program, we have representation from more than <em>35 countries</em>, including Colombia, Singapore, and Vietnam. Our Stars shined the brightest out of more than <em>15,000 nominations</em> to join the GitHub Stars program in the past year alone. While our Stars are spread across the globe and have varied technology expertise and backgrounds, one thing that they all have in common is that they give back and nurture their communities.</p>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/GitHub-Stars-map-2021.png?resize=1024%2C479" alt="Map showing countries represented by GitHub Stars" width="1024" height="479" class="aligncenter size-full wp-image-63154 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/GitHub-Stars-map-2021.png?resize=1024%2C479?w=1600 1600w, https://github.blog/wp-content/uploads/2022/02/GitHub-Stars-map-2021.png?resize=1024%2C479?w=300 300w, https://github.blog/wp-content/uploads/2022/02/GitHub-Stars-map-2021.png?resize=1024%2C479?w=768 768w, https://github.blog/wp-content/uploads/2022/02/GitHub-Stars-map-2021.png?resize=1024%2C479?w=1024 1024w, https://github.blog/wp-content/uploads/2022/02/GitHub-Stars-map-2021.png?resize=1024%2C479?w=1536 1536w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1"/></p>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Eddie-Jaoude.png?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="photo of Eddie Jaoude" width="150" height="150" align="right" data-recalc-dims="1"/>Not content with just one country, <a href="https://stars.github.com/profiles/eddiejaoude"><strong>Eddie Jaoude</strong></a> has been traveling the world as a digital nomad and is focused on sharing all his love for open source with everyone through his <a href="https://www.youtube.com/eddiejaoude">YouTube channel</a>, creating and sharing content every single day with live streams, community calls, and mentoring. Eddie has been growing the open source community through <a href="https://www.eddiehub.org/">EddieHub</a> where he has grown the community to more than 30,000 members. Unsurprisingly, Eddie won the <em>Community Growth in 2021</em> and was <em>Star of the Year 2020</em>—all of which are amazing volunteer achievements.</p>
+<h2>A year of excitement and educating</h2>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Willian-Justen-left_Angel-Duran-Garcia-right.png?w=300&amp;resize=300%2C148" alt="photos of Willian Justen (left) and Miguel Ángel Durán García" width="300" height="148" align="right" data-recalc-dims="1"/> As leaders in the community, the GitHub Stars have played a tremendous role in educating everyone around them with the rapid pace of change and have been a shining light in what has been a difficult year for many. Take <strong><a href="https://stars.github.com/profiles/willianjusten/">Willian Justen</a></strong> (<em>Top Teacher 2021</em>) and <strong><a href="https://stars.github.com/profiles/midudev/">Miguel Ángel Durán García</a></strong> (<em>Best content not in English 2021</em>) who have created online content over the past year on GitHub Copilot, GitHub Actions, GitHub Codespaces, and many other GitHub features to encourage others to get started.</p>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/Cassidy-Williams-thumbnail.png?w=150&amp;h=150&amp;crop=1&amp;resize=150%2C150" alt="photo of Cassidy Williams" width="150" height="150" align="right" data-recalc-dims="1"/>Making open source as accessible as possible helps fight intimidation and encourages more people to contribute and work together as a community. <a href="https://stars.github.com/profiles/cassidoo/"><strong>Cassidy Williams</strong></a> encourages this by teaching others through creating content, speaking, and new ways of coding and contributing. She believes in the power of your voice, which could <a href="https://github.com/readme/stories/cassidy-williams#:~:text=them%20fly%20off.%C2%A0-,Your%20voice%20could%20inspire%20someone%20to%20take%20the%20next%20step,-.%20So%20it%E2%80%99s%20always">inspire someone to take the next step</a> and really lift them up. By working and having a community around you, not only are you lifting them up, but they’ll be able to lift you up in ways that you never imagined.</p>
+<p></p><center><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/GitHub-Stars-icon-small.png?resize=50%2C50" alt="" width="50" height="50" class="alignright size-full wp-image-63217 width-fit" data-recalc-dims="1"/></center><p></p>
+<p>The GitHub Stars continue to inspire all of us, connecting everyone in their orbit. They influence by shaping and nurturing communities to be inclusive and welcoming places for all. They are the experts in our communities who are out there sharing their knowledge with everyone for the love of it, without an expectation of a reward.</p>
+<p>The<a href="http://stars.github.com/"> GitHub Stars program</a> is our way to say thank you to these amazing people. If you know of an inspiring community leader, we want to hear about them to help them make an even greater impact.<a href="https://stars.github.com/nominate"> Nominate them here</a>, or<a href="https://stars.github.com/profiles"> learn more about the Stars themselves</a>.</p>
+</content>
+    <link>https://github.blog/2022-02-15-the-github-stars-in-our-eyes/</link>
+    <modified>2022-02-17T18:11:49Z</modified>
+    <updated>2022-02-17T18:11:49Z</updated>
+    <published>2022-02-15T17:17:19Z</published>
+    <issued>2022-02-15T17:17:19Z</issued>
+    <author>{Anisha Pindoria }</author>
+    <id>https://github.blog/?p=63146</id>
+    <category>[Community Open Source GitHub Stars]</category>
+  </entry>
+  <entry>
+    <title>GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD</title>
+    <description>The GitHub Enterprise Server 3.4 release candidate delivers enhancements to make life easier and more productive.</description>
+    <content><p>The GitHub Enterprise Server 3.4 release candidate is here. This update includes enhancements to make developing software even easier for everyone, with a host of improvements for security, compliance, and administration teams.</p>
+<p>It brings over 60 new features, including:</p>
+<ul>
+<li>Reusable workflows for GitHub Actions (<a href="https://github.com/github/roadmap/issues/257">#257</a>) </li>
+<li>Dependabot security updates (<a href="https://github.com/github/roadmap/issues/343">#343</a>)</li>
+<li>Support for git commit signing via the web UI (<a href="https://github.com/github/roadmap/issues/331">#331</a>)</li>
+<li>Ruby support for GitHub Advanced Security’s code scanning feature (<a href="https://github.com/github/roadmap/issues/136">#136</a>)</li>
+<li>Productivity enhancements for developers including keyboard shortcuts, auto-generated release notes, and more</li>
+</ul>
+<p>Remember, release candidates are a way for users and developers to try the latest features ahead of general availability, and it helps us gather feedback early. They should be tested on non-production environments.</p>
+<p><a href="https://enterprise.github.com/releases/3.4.0/download">Download the release candidate</a> now, or <a href="https://docs.github.com/en/enterprise-server@3.4/admin/overview/about-upgrades-to-new-releases">read more about the release candidate process</a>.</p>
+<h2>Dependabot keeps code secure and dependencies fresh</h2>
+<p>Dependabot is now available in GitHubEnterprise Server 3.4 as a public beta. Dependabot security updates and Dependabot version updates for popular ecosystems helps your organization stay secure.</p>
+<ul>
+<li>Dependabot version updates: users can add a Dependabot configuration file to the repository to enable Dependabot to create pull requests when a new version of a tracked dependency is released.<p></p>
+</li>
+<li>
+<p>Dependabot security updates: users can toggle a repository setting to enable Dependabot to create pull requests when GitHub detects a vulnerability in one of the dependencies of the dependency graph for the repository.</p>
+</li>
+</ul>
+<p><a href="https://docs.github.com/en/enterprise-server@3.4/admin/github-actions/enabling-github-actions-for-github-enterprise-server/setting-up-dependabot-updates">Read more about setting up Dependabot security and version updates</a> and share your feedback with us <a href="https://github.com/github/feedback/discussions/categories/dependabot-feedback">here</a></p>
+<p><img src="https://i1.wp.com/user-images.githubusercontent.com/35036892/153970183-1531f3f6-be9b-4af5-bfda-73d4ae2ddd0c.png?ssl=1" alt="image" data-recalc-dims="1"/></p>
+<h2>GitHub Advanced Security enhancements</h2>
+<p>GitHub Advanced Security’s code scanning engine, CodeQL, adds support for another language, Ruby, which is now available in public beta. The following <a href="https://codeql.github.com/docs/codeql-overview/supported-languages-and-frameworks/">libraries and frameworks</a> have been added to improve the depth of CodeQL’s Python analysis. These libraries and frameworks are carefully selected and prioritized based on their popularity and through user feedback.</p>
+<ul>
+<li>Ruby support</li>
+<li>Python enhancements </li>
+<li>Secret scanning enterprise API</li>
+</ul>
+<p>There are some helpful updates to the GitHub APIs too – the new <a href="https://docs.github.com/en/enterprise-server@3.4/rest/reference/secret-scanning#list-secret-scanning-alerts-for-an-enterprise">enterprise-level</a> secret scanning REST API now supports reports the location of secrets, and the new endpoint will surface details of a secret’s first detection within a file, including the secret’s location and commit SHA.</p>
+<h2>Build a library of reusable workflows</h2>
+<p>With the introduction of reusable workflows, your users can use the entire workflow as if it were an action to help build even faster. Instead of copying and pasting workflow definitions across repositories, users can reference an existing workflow with a single line of configuration. Reusable workflows helps your organization with standardization and compliance benefits across the enterprise.</p>
+<p><a href="https://docs.github.com/en/actions/using-workflows/reusing-workflows">Learn more about reusable workflows</a>, or check out this awesome guide on <a href="https://github.blog/2022-02-10-using-reusable-workflows-github-actions/">how to start using reusable workflows with GitHub Actions</a>.</p>
+<p><img src="https://i1.wp.com/user-images.githubusercontent.com/35036892/153729881-b485880f-8133-492c-bc75-aff754425cbf.png?ssl=1" alt="actions workflow example" data-recalc-dims="1"/></p>
+<h2>Administrator updates</h2>
+<p>It can be difficult for repository administrators to calculate the effective permissions of repository members, especially those with inherited permissions. The new “Manage Access” tab simplifies the user management of access and helps untangle mixed role assignments. Improved pagination and performance enhancements mean that repository administrators can reliably manage even the most popular repositories. These changes create a cohesive experience for the admin to update current user management.</p>
+<p><img src="https://i2.wp.com/user-images.githubusercontent.com/5809361/77432104-ff6b0a00-6db3-11ea-8e63-3bf13efbae5a.png?ssl=1" alt="repository access management" data-recalc-dims="1"/></p>
+<h2>What else is new?</h2>
+<h4>Review not required</h4>
+<p>Requiring pull requests and requiring approving reviews are now separate options for protecting a branch. For example, users can now require pull requests without requiring reviews, or with requiring approving reviews. This flexibility lets you choose what is best for you and your branches. This is just one of a number of improvements to branch administration. Read about the rest in the <a href="https://docs.github.com/en/enterprise-server@3.4/admin/release-notes#branches-changes">release notes</a>.</p>
+<p><img src="https://i0.wp.com/user-images.githubusercontent.com/35036892/153973251-8a1ae4de-b4ed-4ecb-8923-9d86fb34c68c.png?ssl=1" alt="image" data-recalc-dims="1"/></p>
+<p>For more information, see the <a href="https://github.blog/changelog/2021-11-10-require-pull-requests-without-requiring-reviews/">GitHub Changelog entry</a></p>
+<h4>Participants go to the top</h4>
+<p>The @mention suggester now makes smarter recommendations. Users who have participated will be listed ahead of other suggestions when @mentioning in issues, pull requests, and discussions.<br/>
+<img src="https://i1.wp.com/user-images.githubusercontent.com/3369400/138904398-194bd492-4bd3-457e-91e4-b985597c6eef.png?ssl=1" alt="at mention suggester improvements" data-recalc-dims="1"/></p>
+<h4>Give your organization a README page</h4>
+<p>Organizations can now publish a README.md to talk about the work they are doing, to invite contribution, or guide readers to specific repositories. Learn more at the <a href="https://github.com/github">GitHub Overview page</a> for an example, or review the <a href="https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile">documentation</a>.</p>
+<p><img src="https://i0.wp.com/user-images.githubusercontent.com/3369400/133266533-ba0ec811-91b7-4ae2-a3de-bbf01c5e5c70.png?ssl=1" alt="organization readme example image" data-recalc-dims="1"/></p>
+<h2>Try it out today</h2>
+<p>To learn more about GitHub Enterprise Server 3.4, read the <a href="https://docs.github.com/en/enterprise-server@3.4/admin/release-notes#3.4.0.rc1">release notes</a>, and <a href="https://enterprise.github.com/releases/3.4.0/download">download</a> it now.</p>
+<p>Not using GitHub Enterprise Server already? <a href="https://github.com/enterprise">Start a free trial</a> to innovate faster with the platform developers know and love.</p>
+</content>
+    <link>https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/</link>
+    <modified>2022-02-17T22:16:00Z</modified>
+    <updated>2022-02-17T22:16:00Z</updated>
+    <published>2022-02-15T23:23:39Z</published>
+    <issued>2022-02-15T23:23:39Z</issued>
+    <author>{Ian Marsh }</author>
+    <id>https://github.blog/?p=63223</id>
+    <category>[Enterprise Product GitHub Enterprise Server]</category>
+  </entry>
+  <entry>
+    <title>Encoding and escaping untrusted data to prevent injection attacks</title>
+    <description>Practical tips on how to apply OWASP Top 10 Proactive Control C4.</description>
+    <content><p><em>This is part five of GitHub Security Lab’s <a href="https://github.blog/2021-12-06-write-more-secure-code-owasp-top-10-proactive-controls/">series on the OWASP Top 10 Proactive Controls</a>, where we provide practical guidance for OSS developers and maintainers on improving your security posture.</em></p>
+<hr/>
+<p>A vast majority of injection attacks come from what we would term <em>tampered data</em>: unexpected data or formatting in inputs with the intent of discovering or exploiting vulnerabilities. In this post, I’ll discuss ways to defend yourself using guidance from OWASP Top 10 Proactive Controls C4: Encode and Escape Data—including the “why” and “what” of that control.</p>
+<h2>Encoding and injection according to OWASP</h2>
+<p>From the OWASP document about this control:</p>
+<blockquote><p>
+  <strong>Encoding</strong> and escaping are defensive techniques meant to stop injection attacks.
+</p></blockquote>
+<p>Until <a href="https://owasp.org/www-project-top-ten/2017/Top_10">2017</a>, OWASP’s list of Top 10 Risks listed cross-site scripting (XSS) separately from “injection.” There are many (myself included) that consider XSS a form of injection. So, saying that output encoding prevents injection attacks is accurate in that light.</p>
+<h2>Injection attacks, encoding and interpreters</h2>
+<aside class="float-sm-right col-sm-5 col-md-6 col-lg-5 f4-mktg pt-3 my-5 my-sm-2 ml-sm-4 ml-lg-6 post-aside--small"><h3>What&#39;s the difference between escaping and encoding?</h3><p>I’ll use the two terms largely interchangeably in this post. In short, the intent is that escaping or encoding helps render unsafe external inputs safe in an executable context.</p>
+</aside>
+<p>The real danger of injection attacks is that they are usually of a what-you-see-is-NOT-what-you-get nature. Using different encoding schemes that our interpreters will often “helpfully” decode later, attackers bypass simple denylist approaches. I recall once (early in my security awareness days, still working as a software engineer) trying to defend against SQL injection (SQLi) by looking for unexpected commands like <code>DROP</code> or <code>INSERT</code> where they might not be expected. Similarly, some web applications have looked for <code>&lt;script&gt;</code> in inputs to defend against XSS. This sort of approach is fragile, difficult to maintain from a code perspective, and ineffective from a security perspective. Also, the real defense against SQLi is parameterized queries (which encode things for you, more on that later), but let’s get back to encoding.</p>
+<p>Encoding can be used in attacks as well as defense. In an attack, a malicious user might send <code>%3Cscript%3E</code> instead of <code>&lt;script&gt;</code> to evade an oversimplified denylist employed as a defense. <em>Output encoding</em>, which I’ll talk about shortly, is a defensive technique.</p>
+<p>In most cases, the helpful interpreter is your browser, but it could also be a command-line environment or other bit of software such as a database driver. The browser, and hence XSS, represents a large target surface for which output encoding is the prevention technique. I’ll  also cover some other examples. Let’s dig in on XSS first.</p>
+<h2>XSS and output encoding</h2>
+<p><a href="https://owasp.org/www-community/attacks/xss/">Cross-site scripting (XSS)</a> is a vulnerability. When exploited, a malicious user injects their JavaScript to run in your browser in a malicious way and usually without your knowledge.</p>
+<p>The primary defense for XSS is “output encoding.” What does that mean? As an example, it means rendering a user input that was <code>&lt;</code> as <code>&amp;lt;</code> so that the input renders the <code>&lt;</code> on the page (viewable as content) and not as HTML source. In short, output encoding enables safe rendering of certain characters to the target interpreter.</p>
+<h3>Context is key</h3>
+<p>Context is very important in any discussion of XSS, browsers and encoding. In the browser, when we talk about context, we are primarily talking about where content is rendered. There are four contexts.</p>
+<ul>
+<li>HTML body (text between tags)</li>
+<li>HTML attributes (text within the tags)</li>
+<li>JavaScript (content between <code>&lt;script&gt;</code> and <code>&lt;/script&gt;</code> tags)</li>
+<li>Cascading Style Sheets (CSS, content between <code>&lt;style&gt;</code> and <code>&lt;/style&gt;</code> tags)</li>
+</ul>
+<p>Each context has its own encoding system. What this means is that you encode for JavaScript if you are outputting content between <code>&lt;script&gt; … &lt;/script&gt;</code> tags. Likewise, you encode for HTML attributes between <code>&lt;</code> and <code>&gt;</code>, including tag names, attribute names, and attribute values. Encode for HTML body between tags and style between <code>&lt;style&gt;</code> tags.</p>
+<h3>Encoding properly is hard</h3>
+<p>The conventional and wise advice is to encode any data you output from an untrusted source (user or any external source) for the proper context (see above). This is a lot to get right.</p>
+<p>I once did training for a group that had an XSS finding in an app. We paused the training to dig into the affected application and code to do a hands-on exercise. When we checked the <code>git blame</code> and the comments, the XSS finding was introduced because of a change in the encoding context. It was encoded for JavaScript but was output into an HTML attribute. It had been encoded for a different context. The wrong encoding context opened the application up to the vulnerability. It’s an easy mistake to make with potentially high impact.</p>
+<h3>Bang for your buck for application developers</h3>
+<p>So, when you are looking to defend against something as difficult and potentially pervasive as XSS by encoding, you need that encoding to be automatic. It should be something you don’t have to think about constantly. OWASP lists it as a <a href="https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html#bonus-rule-3-use-an-auto-escaping-template-system">“bonus” rule</a> in their cross-site scripting prevention doc. I recommend starting here. Select your templating/output engine such that encoding happens automatically for the right context. This means it would need to be explicitly overridden or disabled to make it insecure.</p>
+<h4>Auto-encoding frameworks/templating engines</h4>
+<p>The OWASP doc regarding this control also says:</p>
+<blockquote><p>
+  Output encoding is best applied <em>just before</em> the content is passed to the target interpreter.
+</p></blockquote>
+<p>This is where frameworks and templating engines come into play. To make your anti-XSS life easier, use a framework that defaults to safely performing output encoding (which it will do as it passes content to the target interpreter). Here are a few:</p>
+<ul>
+<li><a href="https://reactjs.org">ReactJS</a></li>
+<li><a href="https://docs.angularjs.org/guide/security">AngularJS</a> (See the Angular <a href="https://docs.angularjs.org/guide/security">security page</a> for more detail.)</li>
+<li><a href="https://handlebarsjs.com">Handlebars</a></li>
+<li><a href="https://liquidjs.com">LiquidJS</a></li>
+<li>Rails</li>
+<li><a href="https://owasp.org/www-project-java-encoder/">Java Encoder Project</a> (From OWASP. Not an actual framework or template engine, but a well-written library to help in the fight against XSS.)</li>
+<li>.Net (Generally does well by default, but best to read their <a href="https://docs.microsoft.com/en-us/aspnet/core/security/cross-site-scripting?view=aspnetcore-6.0">security doc on the topic</a>.)</li>
+</ul>
+<p>Are these all guaranteed 100% XSS-free forever? No, but they have a solid record out of the box. This list is not exhaustive. If you would like to use something not on it, spend some time researching and maybe even ask around on whether that templating engine or library auto-escapes or performs output encoding according to the context by default.</p>
+<h4>Don’t escape the escaping</h4>
+<p>When you do use a library or framework that handles the output encoding (or escaping) for you by default, don’t bypass it. Some frameworks make it painfully obvious that you are doing it (like React and <code><a href="https://reactjs.org/docs/dom-elements.html#dangerouslysetinnerhtml">dangerouslySetInnerHTML</a></code>). Others are more ambiguous, like Rails with <code><a href="https://apidock.com/rails/String/html_safe">html_safe</a></code>.  If you are unsure, read the docs.</p>
+<h2>Other encoding or escaping scenarios</h2>
+<p>XSS and the browser are the prominent example of using encoding defensively. However, the ‘front end’ of web apps is not the only place you should use encoding to keep your applications safe.</p>
+<p>As I mentioned earlier, using parameterized queries is a form of encoding/escaping potentially malicious input intended to cause SQL injection. A great explanation offered to me is that malicious input can be used to mix the control plane (the query) and the data plane (like values in the <code>WHERE</code> clause that you want to use from the user). This gives the user control over the control plane, allowing them to restructure or rewire the query. In the case of SQLi, this is most commonly done by introducing an unexpected <code>’</code> to imbalance those planes. Parameterized queries automatically encode properly for you, negating that scenario of mixing control and data planes. Object-relational mapping (ORM) libraries do this by default in most cases too.</p>
+<p>In command injection, unexpected newline characters (<code>\n</code>) may be introduced in order to bypass brittle validation. Normalize or encode the input to ensure that it represents a single line before validating it. Check the regular expression references for your language to ensure you are using single-line anchors in your validation. In general, this sort of encoding/normalization is a good idea for code quality.</p>
+<h2>Indirection as encoding</h2>
+<p>There will be times (namely when trying to prevent command injection) where you cannot encode (or regex) your way into safe usage. In such cases, consider indirection or abstraction. What this usually means is that you offer predefined values (like <code>1</code>,<code>2</code>,<code>3</code>,<code>4</code>) that map to other predefined values (maybe file names or paths, for example) where you process the input.</p>
+<h2>Good friction</h2>
+<p>Encoding and escaping in addition to validation will always add some friction to your application or service, but not all friction is bad. In the case of attack prevention, think of it like brakes on the car: it’s what allows you to go fast the rest of the time.</p>
+<hr/>
+<p><em>Check out the rest of our <a href="https://github.blog/2021-12-06-write-more-secure-code-owasp-top-10-proactive-controls/">OWASP Top 10 Proactive Controls series</a>, or follow <a href="https://twitter.com/GHSecurityLab">GitHub Security Lab on Twitter</a> for the latest in security research.</em></p>
+</content>
+    <link>https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/</link>
+    <modified>2022-02-18T17:44:21Z</modified>
+    <updated>2022-02-18T17:44:21Z</updated>
+    <published>2022-02-16T17:38:40Z</published>
+    <issued>2022-02-16T17:38:40Z</issued>
+    <author>{Jason White }</author>
+    <id>https://github.blog/?p=63244</id>
+    <category>[Community Security GitHub Security Lab OWASP Top 10 Proactive Controls]</category>
+  </entry>
+  <entry>
+    <title>How to make the most out of a mentoring relationship</title>
+    <description>Tips from our developer advocates on how and why to find a mentor. </description>
+    <content><p>Whether or not you have a formal or more casual mentor in your life, the benefits of a trusted confidant reach far beyond increased engagement and sense of belonging (which, is convincing on its own—we know!). According to our <em><a href="https://octoverse.github.com/">2021 State of the Octoverse Report</a></em>, when a commitment to mentorship is combined with friendly and timely code reviews, teams see a 46% boost in productivity in open source projects and 16% in companies.</p>
+<p>But how do you go about finding a mentor and making the most out of the relationship? We asked two of our developer advocates, <a href="https://github.com/MishManners">Michelle Mannering</a> and <a href="https://github.com/Damovisa">Damian Brady</a>, to share advice and tips for how to find the right mentors, the right questions to ask, and how to best leverage the relationship.</p>
+<h2>How have you benefited personally from having mentors?</h2>
+<p><em><strong>Michelle:</strong></em> There’s a saying that the only “legitimate” way to time travel is having mentors. We can learn from our mentors’ experiences and try to apply those to our own situations. Mentors aren’t gods that have all the answers, but they are invaluable colleagues who are fantastic for bouncing around ideas and asking for advice. Most of the time I will come up with my own answer, but only after my mentors helped me get that far in the first place.</p>
+<p>Mentors also validate ideas and help me work on pathways and direction. My mentors have provided so much valuable advice and feedback and I wouldn’t be here today without them. Not only are they great for guiding me, but they also champion me and help me celebrate my wins.</p>
+<p><em><strong>Damian:</strong></em> Every mentor I’ve had has helped me find the things I’m good at and enjoy. Focusing on that combination has meant I’m more likely to put in the work, and they’ve encouraged and guided me towards decisions that lead to success.</p>
+<h2>Where and how do you go about identifying a mentor? What advice would you give to those early in their career who may not have an intuitive place to go for mentorship?</h2>
+<p><em><strong>Michelle:</strong></em> There’s not really a point in time where I went, “I need a mentor right now.” I would organically ask peers, colleagues, bosses, for advice. Sometimes these would be one–off conversations, and other times it would be coffee chats, dinner, or ongoing conversations.</p>
+<p>I think people need to approach mentoring in a way that is open, and beneficial for both people involved. Start by asking people for things that don’t require a lot of their time. For example, most of the people who you’d want to mentor are stretched for time. So instead of asking for advice on X, ask that person if they have some good resources/links pointing to advice on X. That doesn’t waste their time, and usually they’ll be able to share with you content they have already created. This is beneficial to everyone.</p>
+<p><em><strong>Damian:</strong></em> I never sought out a formal mentor. Instead, I looked to people who were doing what I wanted to be doing. I realized I enjoyed public speaking, so I spent time with people who were good at it to learn what they did. Speaking to someone you respect at a distance can be intimidating, but they’re also just people. In general, people want you to succeed.</p>
+<p>One mentor of mine became aware that a book series was looking for a co-author. Knowing it was in a specialty I was trying to grow into, he asked me if I’d be interested, then vouched for me to the other authors.</p>
+<p>At the time, a book was a little out of my comfort zone, but when we spoke about it my mentor explained that while the book was unlikely to earn money, it was a great way to get my name in front of the right people. His advice was exactly right. <a href="https://kaizentic.files.wordpress.com/2015/06/professional-team-foundation-server-2013.pdf">That book</a> led me to a Microsoft MVP award, and helped break me into public speaking.</p>
+<h2>How is mentorship different in an open source community vs. within a company? What kind of expectations are good to set early on?</h2>
+<p><em><strong>Michelle:</strong></em> I think people need to remember that when working in a community, the person you are going to isn’t usually being paid for being in that community. This means their time is more valuable, and they are probably stretched for time as they have their own (usually) full-time jobs to worry about.</p>
+<p>Always be mindful of people’s time, and asking specific questions instead of vague statements.  Mentors can better help you when you ask specific questions tied to an outcome.</p>
+<p>Questions like, “How do I have a good career?” is a super vague question. Something more like, “What tips can you give me on things to look for when I’m searching for an open source community to be a part of?” is way more specific and actionable.</p>
+<h2>When did you start becoming a mentor yourself?</h2>
+<p><em><strong>Michelle:</strong></em> I don’t think there was a specific time I became a mentor. I just started sharing my knowledge with those around me. People would send me DMs asking for advice and I would give them what I could. I don’t think there’s a point in time where you go, “I want to be a mentor.” It kind of just happens as a natural progression.</p>
+<p><em><strong>Damian:</strong></em> My career took me into public speaking and developer advocacy and I realized how much I enjoy sharing the things I learn. Dev advocacy is usually “one-to-many” where you’re trying to help as many people as possible, but that doesn’t necessarily mean you have to generalize.</p>
+<p>While I don’t think I’ve ever formally called myself a “mentor,” I love helping people one-on-one where you can really focus on what’s important to that person.</p>
+<h2>How should you structure your mentorship to get the most out of your mentor? And what tips do you have to get the most out of a mentorship?</h2>
+<p><em><strong>Michelle:</strong></em> I always ask for specific advice. “Hey, I’m having trouble with X, can you please give me some advice” or “I want to get from my current level to the next level, how can I do that?”, is how I get the most of my mentoring relationships. I think it’s also good to keep in mind that mentors aren’t beacons of truth or knowledge. As a mentee I need to take on all the advice of my mentors and make my own decisions.</p>
+<p>On the flip side, as a mentor, it’s important to remember not to get annoyed, upset, or angry, if a mentee doesn’t take your advice. Everyone has their own unique situations and what worked for you might not work for them. We only need to remember to pass on our own knowledge and experience and trust them to make the decisions that’s best/right for them.</p>
+<p><em><strong>Damian:</strong></em> A mentor-mentee relationship doesn’t need to be a formal arrangement. It can just be two people at different stages in their careers having a regular catch-up. I think it’s important that it’s regular. Whether that be weekly, monthly, or longer, having a regular cadence means there’s continuity and the ability to get the most out of each meeting.</p>
+<p>To get the most out of a mentor, it’s important you’re clear about what you want. Do you want to know what to learn next, do you need career advice, or do you just want support as you’re going through difficult periods?</p>
+<p>Similarly, as a mentor it’s important to know how you can best provide help. That might be sharing your view on technologies to lean towards, encouraging or discouraging courses of action, or even connecting your mentee with someone else if you’re not who they need!</p>
+<h2>Takeaways</h2>
+<p>A mentor doesn’t need to be a formal arrangement, but in order to make the most out of a relationship:</p>
+<ul>
+<li>Meet or communicate on a regular basis whether in person or virtually. </li>
+<li>Come with specific topics, challenges, or questions you may need help with. General questions or topics won’t be as effective as more relevant projects or experiences you want to cover. </li>
+<li>Be curious, be open, and be ready to be challenged so that you can grow as a developer. </li>
+</ul>
+<p>For more data around the benefits of mentoring in either the open source communities or within your company, read through the <a href="https://octoverse.github.com/sustainable-communities/#mentorship-at-work-and-open-source">Sustainable Communities section </a>of the <em>2021 State of the Octoverse Report.</em></p>
+</content>
+    <link>https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/</link>
+    <modified>2022-02-17T18:12:25Z</modified>
+    <updated>2022-02-17T18:12:25Z</updated>
+    <published>2022-02-16T18:17:15Z</published>
+    <issued>2022-02-16T18:17:15Z</issued>
+    <author>{Kelsey Bernius }</author>
+    <id>https://github.blog/?p=63296</id>
+    <category>[Community Octoverse]</category>
+  </entry>
+  <entry>
+    <title>Leveraging machine learning to find security vulnerabilities</title>
+    <description>A behind-the-scenes peek into the machine learning framework powering new code scanning security alerts.</description>
+    <content><p>GitHub <a href="https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning">code scanning</a> now uses machine learning (ML) to alert developers to potential security vulnerabilities in their code.</p>
+<p>If you want to set up your repositories to surface more alerts using our new ML technology, get started <a href="https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/">here</a>. Read on for a behind-the-scenes peek into the ML framework powering this new technology!</p>
+<h2>Detecting vulnerable code</h2>
+<p>Code security vulnerabilities can allow malicious actors to manipulate software into behaving in unintended and harmful ways. The best way to prevent such attacks is to detect and fix vulnerable code before it can be exploited. GitHub’s code scanning capabilities leverage the <a href="https://codeql.github.com/">CodeQL</a> analysis engine to find security vulnerabilities in source code and surface alerts in pull requests – before the vulnerable code gets merged and released.</p>
+<p>To detect vulnerabilities in a repository, the CodeQL engine first builds a database that encodes a special relational representation of the code. On that database we can then execute a series of CodeQL queries, each of which is designed to find a particular type of security problem.</p>
+<p>Many vulnerabilities are caused by a single repeating pattern: untrusted user data is not sanitized and is subsequently accidentally used in an unsafe way. For example, SQL injection is caused by using untrusted user data in a SQL query, and cross-site scripting occurs as a result of untrusted user data being written to a web page. To detect situations in which unsafe user data ends up in a dangerous place, CodeQL queries encapsulate knowledge of a large number of potential sources of user data (for example, web frameworks), as well as potentially risky sinks (such as libraries for executing SQL queries). <a href="https://github.com/github/codeql">Members of the security community, alongside security experts at GitHub</a>, continually expand and improve these queries to model additional common libraries and known patterns. Manual modeling, however, can be time-consuming, and there will always be a long tail of less-common libraries and private code that we won’t be able to model manually. This is where machine learning comes in.</p>
+<p class="f1-mktg text-medium text-gradient-purple-coral mt-6 mb-4">We use examples surfaced by the manual models to train deep learning neural networks that can determine whether a code snippet comprises a potentially risky sink.</p>
+<p>As a result, we can uncover security vulnerabilities even when they arise from the use of a library we have never seen before. For example, we can detect SQL injection vulnerabilities in the context of lesser-known or closed-source database abstraction libraries.</p>
+<figure id="attachment_63317" class="wp-caption alignright my-4 mx-0"><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/experimental-label.jpg" alt="Screenshot of alerts with &#34;experimental&#34; label" class="width-fit size-full wp-image-63317 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/experimental-label.jpg?w=1200 1200w, https://github.blog/wp-content/uploads/2022/02/experimental-label.jpg?w=300 300w, https://github.blog/wp-content/uploads/2022/02/experimental-label.jpg?w=768 768w, https://github.blog/wp-content/uploads/2022/02/experimental-label.jpg?w=1024 1024w" sizes="(max-width: 1000px) 100vw, 1000px"/><figcaption class="text-mono color-text-secondary f6-mktg">ML-powered queries generate alerts that are marked with the “Experimental” label</figcaption></figure>
+<h2>Building a training set</h2>
+<p>We need to train ML models to recognize vulnerable code. While we have experimented some with unsupervised learning, unsurprisingly we found that supervised learning works better. But it comes at a cost! Asking code security experts to manually label millions of code snippets as safe or vulnerable is clearly untenable. So where do we get the data?</p>
+<p>The manually written CodeQL queries already embody the expertise of the many security experts who wrote and refined them. We leverage these manual queries as ground-truth oracles, to label examples we then use to train our models. Each sink detected by such a query serves as a positive example in the training set. Since the vast majority of code snippets do not contain vulnerabilities, snippets not detected by the manual models can be regarded as negative examples. We make up for the inherent noise in this inferred labeling with volume. We extract tens of millions of snippets from over a hundred thousand public repositories, run the CodeQL queries on them, and label each as a positive or negative example for each query. This becomes the training set for a machine learning model that can classify code snippets as vulnerable or not.</p>
+<p>Of course, we don’t want to train a model that will simply reproduce the manual modeling; we want to train a model that will predict <em>new</em> vulnerabilities that <em>weren’t</em> captured by manual modeling. In effect, we want the ML algorithm to improve on the current version of the manual query in much the same way that the current version improves on older, less-comprehensive versions. To see if we can do this, we actually construct all our training data from an older version of the query that detects fewer vulnerabilities. We then apply the trained model to new repositories it wasn’t trained on. We measure how well we recover the alerts detected by the latest manual query but missed by the older version of the query. This allows us to simulate the ability of a model trained with the <em>current</em> version of the query to recover alerts missed by this current manual model.</p>
+<p><video width="100%" loop="" controls="" autoplay="" muted=""><source src="https://github.blog/wp-content/uploads/2022/02/current_worse.mp4" type="video/mp4"/></video></p>
+<h2>Features and modeling</h2>
+<p>Given a large training set of code snippets labeled as positive or negative examples for each query, we extract features for each snippet and train a deep learning model to classify new examples.</p>
+<p>Rather than treating each code snippet simply as a string of words or characters and applying standard natural language processing (NLP) techniques naively to classify these strings, <strong>we leverage the power of CodeQL to access a wealth of information about the underlying source code</strong>. We use this information to produce a rich set of highly informative features for each code snippet.</p>
+<p>One of the main advantages of deep learning models is their ability to combine information from a large set of features to create higher-level features and discover patterns that aren’t obvious to humans. In partnership with security and programming-language experts at GitHub, we use CodeQL to extract the information an expert might examine to inform a decision, such as the entire enclosing function body for a snippet that sits within a function, or the access path and API name. We don’t have to limit ourselves to features a human would find informative, however. We can include features whose usefulness is unknown, or features that can be useful in some instances but not all, such as the argument index for a code snippet that’s an argument to a function. Such features may contain patterns that aren’t apparent to humans, but that the neural network can detect. We therefore let the machine learning model decide whether or how to use all these features, and how to combine them to make the best decision for each snippet.</p>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/codeql-ml-together.png?resize=1024%2C470" alt="Slide with text: CodeQL: Deep logical analysis, Deductive reasoning Long chains of reasoning, Encodes knowledge from security experts ML: Pattern detection, Inductive reasoning, Fuses large volume of weak evidence, Encodes knowledge from empirical data." width="1024" height="470" class="alignright size-full wp-image-63358 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/codeql-ml-together.png?resize=1024%2C470?w=1040 1040w, https://github.blog/wp-content/uploads/2022/02/codeql-ml-together.png?resize=1024%2C470?w=300 300w, https://github.blog/wp-content/uploads/2022/02/codeql-ml-together.png?resize=1024%2C470?w=768 768w, https://github.blog/wp-content/uploads/2022/02/codeql-ml-together.png?resize=1024%2C470?w=1024 1024w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1"/></p>
+<p>Once we’ve extracted a rich set of potentially interesting features for each example, we tokenize and sub-tokenize them as is commonly done in NLP applications, with some modifications to capture characteristics specific to code syntax. We generate a vocabulary from the training data and feed lists of indices into the vocabulary into a fairly simple deep learning classifier, with a few layers of feature-by-feature processing followed by concatenation across features and a few layers of combined processing. The output is the probability that the current sample is a vulnerability for each query type.</p>
+<p>Due to the scale of our offline data labeling, feature extraction, and training pipelines, we leverage cloud compute, including GPUs for model training. At inference time, however, no GPU is needed.</p>
+<h2>Inference on a repository</h2>
+<p>Once we have our trained machine learning model, we use it to classify new code snippets and detect likely vulnerabilities for each query. When ML-generated alerts are enabled by repository owners, CodeQL computes the source code features for the code snippets in that codebase and feeds them into the classifier model. The framework gets back the probability that a given code snippet represents a vulnerability, and uses this probability to surface likely new alerts.</p>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/diagram.png?resize=960%2C540" alt="Diagram showing how code snippets feed into CodeQL and the classifier model." width="960" height="540" class="alignright size-full wp-image-63316 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/diagram.png?resize=960%2C540?w=960 960w, https://github.blog/wp-content/uploads/2022/02/diagram.png?resize=960%2C540?w=300 300w, https://github.blog/wp-content/uploads/2022/02/diagram.png?resize=960%2C540?w=768 768w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1"/></p>
+<p>The full process runs on the same standard GitHub Action runners that are used by code scanning more generally, and it’s transparent to the user other than some increased runtime on large repositories. When the code scanning is complete, users can see the ML-generated alerts along with the alerts surfaced by the manual queries, with the “Experimental” label allowing them to filter ML-generated alerts in or out.</p>
+<h2>Does it work?</h2>
+<p>When evaluating ML-generated alerts, we consider only new alerts that were not flagged by the manual queries. True positives are the correct alerts that were missed by the manual queries; false positives are the incorrect new alerts generated by the ML model.</p>
+<p>To measure metrics at scale, we use the experimental setup described above, in which the labels in the training set are determined using an older version of each manual query. We then test the model on repositories that were not included in the training set, and we measure its ability to recover the alerts detected by the current manual query but missed by the older one. Our metrics vary by query, but on average we measure a recall of approximately 80% with a precision of approximately 60%.</p>
+<aside class="float-sm-right col-sm-5 col-md-6 col-lg-5 f4-mktg pt-3 my-5 my-sm-2 ml-sm-4 ml-lg-6 post-aside--small"><h3>Special thanks</h3><p>This release would not have been possible without the tireless work of <a href="https://github.com/TomBolton">Thomas Bolton</a>, <a href="https://github.com/jhelie">Jean Helie</a>, <a href="https://github.com/henrymercer">Henry Mercer</a>, <a href="https://github.com/annarailton">Anna Railton</a>, <a href="https://github.com/Z80coder">Ian Wright</a>, and many other dedicated folks!<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2728.png" alt="✨" class="wp-smiley" style="height: 1em; max-height: 1em;"/></p>
+</aside>
+<p>We’re currently extending ML-generated alerts to more JavaScript and Typescript security queries, as well as working to improve both their performance and their runtime. Our future plans include expansion to more programming languages, as well as generalizations that will allow us to capture even more vulnerabilities.</p>
+<p><a href="https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/">Run the “Experimental” queries</a> if you want to uncover more potential security vulnerabilities in your codebase. The more the community engages with our alerts and provides <a href="https://github.com/github/codeql/discussions/7671">feedback</a>, the better we can make our algorithms, so please consider giving them a try!</p>
+</content>
+    <link>https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/</link>
+    <modified>2022-02-17T17:59:19Z</modified>
+    <updated>2022-02-17T17:59:19Z</updated>
+    <published>2022-02-17T17:59:19Z</published>
+    <issued>2022-02-17T17:59:19Z</issued>
+    <author>{Tiferet Gazit }</author>
+    <id>https://github.blog/?p=63320</id>
+    <category>[Engineering Security code scanning CodeQL machine learning]</category>
+  </entry>
+  <entry>
+    <title>Code scanning finds more vulnerabilities using machine learning</title>
+    <description>Today we launched new code scanning analysis features powered by machine learning. The experimental analysis finds more of the most common types of vulnerabilities.</description>
+    <content><p>Code scanning is now able to find more potential security vulnerabilities by harnessing a new deep learning model. This experimental feature is available in public beta for JavaScript and TypeScript repositories on GitHub.com. With the new analysis capabilities, code scanning can surface even more alerts for four common vulnerability patterns: cross-site scripting (XSS), path injection, NoSQL injection, and SQL injection. Together, these four vulnerability types account for many of the recent vulnerabilities (CVEs) in the JavaScript/TypeScript ecosystem, and improving code scanning’s ability to detect such vulnerabilities early in the development process is key in helping developers write more secure code.</p>
+<h2>Why use machine learning to generate better results?</h2>
+<p>GitHub code scanning is powered by the <a href="https://codeql.github.com/">CodeQL analysis engine</a>. To identify potential security vulnerabilities, you can enable CodeQL to run queries against your codebase. These <a href="https://github.com/github/codeql">open source queries</a> are written by members of the community and GitHub security experts, and each query is carefully crafted to recognize as many variants of a particular vulnerability type as possible and provide broad Common Weakness Enumeration (CWE) coverage. Queries are continuously updated to recognize emerging libraries and frameworks. Identifying such libraries is important: it allows us to accurately identify flows of untrusted user data, which are often the root cause of security vulnerabilities.</p>
+<aside class="float-sm-right col-sm-5 col-md-6 col-lg-5 f4-mktg pt-3 my-5 my-sm-2 ml-sm-4 ml-lg-6 post-aside--small"><h3>What vulnerabilities does the new analysis find?</h3><p>Our static analysis for JavaScript and TypeScript code covers the entire OWASP Top 10 vulnerability types (and more). Today’s beta release focuses on finding <em>additional</em> alerts for some of the most common and dangerous vulnerabilities:</p>
+<ul>
+<li>Cross-site scripting (XSS, CWE-79)</li>
+<li>Path injection (CWE-22, CWE-23, CWE-36, CWE-73, CWE-99)</li>
+<li>NoSQL injection (CWE-943)</li>
+<li>SQL injection (CWE-89)</li>
+</ul>
+<p>
+</p></aside>
+<p>With the rapid evolution of the open source ecosystem, there is an ever-growing long tail of libraries that are less commonly used. We use examples surfaced by the manually-crafted CodeQL queries to train deep learning models to recognize such open source libraries, as well as in-house developed closed-source libraries. Using these models, CodeQL can identify more flows of untrusted user data, and therefore more potential security vulnerabilities.</p>
+<p>Want to learn about the machine learning framework powering these alerts? Check out <a href="https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/">this post</a>, which describes how we trained our deep learning models.</p>
+<h2>How do I enable the new experimental analysis?</h2>
+<p>The new experimental JavaScript and TypeScript analysis is rolled out to all users of code scanning’s <code>security-extended</code> and <code>security-and-quality</code> <a href="https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/configuring-code-scanning#using-queries-in-ql-packs">analysis suites</a>. If you’re already using one of these suites, your code will be analyzed using the new machine learning technology.</p>
+<p>If you’re already using code scanning, but not using either of these suites yet, you can <a href="https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning-alerts#about-experimental-alerts">enable the new experimental analysis</a> by modifying your code scanning Actions workflow configuration file as follows:</p>
+<pre><code>[...]
+    - uses: github/codeql-action/init@v1
+      with:
+        queries: +security-extended
+[...]
+</code></pre>
+<p>If you’re new to code scanning, please follow <a href="https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/setting-up-code-scanning-for-a-repository">these instructions</a> to configure the analysis for your JavaScript/TypeScript code. During the setup process, you can configure the <code>security-extended</code> or <code>security-and-quality</code> analysis suites described above.</p>
+<h2>Where do new alerts appear?</h2>
+<p>If the new experimental analysis finds additional results, you will see the new alerts displayed alongside the other code scanning alerts in the “Security” tab of your repository. They will also appear on <a href="https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/triaging-code-scanning-alerts-in-pull-requests">pull requests</a>. The new alerts are clearly marked with the “Experimental” label.</p>
+<p><img loading="lazy" src="https://github.blog/wp-content/uploads/2022/02/experimental-label-alerts.png?resize=1024%2C451" alt="ML-powered queries generate alerts that are marked with the “Experimental” label" width="1024" height="451" class="alignright size-full wp-image-63361 width-fit" srcset="https://github.blog/wp-content/uploads/2022/02/experimental-label-alerts.png?resize=1024%2C451?w=1227 1227w, https://github.blog/wp-content/uploads/2022/02/experimental-label-alerts.png?resize=1024%2C451?w=300 300w, https://github.blog/wp-content/uploads/2022/02/experimental-label-alerts.png?resize=1024%2C451?w=768 768w, https://github.blog/wp-content/uploads/2022/02/experimental-label-alerts.png?resize=1024%2C451?w=1024 1024w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1"/></p>
+<p>It’s important to note that while we continue to improve and test our machine learning models, this new experimental analysis can have a higher false-positive rate relative to results from our standard CodeQL analysis. As with most machine learning models, the results will improve over time. We encourage everyone to try out this new experimental feature;  with your <a href="https://github.com/github/codeql/discussions/7671">feedback</a> we can continue to innovate and secure the world’s code!</p>
+</content>
+    <link>https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/</link>
+    <modified>2022-02-17T18:23:21Z</modified>
+    <updated>2022-02-17T18:23:21Z</updated>
+    <published>2022-02-17T18:00:03Z</published>
+    <issued>2022-02-17T18:00:03Z</issued>
+    <author>{Tiferet Gazit }</author>
+    <id>https://github.blog/?p=63340</id>
+    <category>[Product Security code scanning CodeQL machine learning]</category>
+  </entry>
+</feed>
+
